@@ -1,45 +1,31 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
-    {% include 'navbar.html' %}
-    <h1>Dartboard</h1>
-    <input class="input is-primary" type="text" placeholder="Primary input">
-    <div>
-        <h2>Find the vacation of your</h2>
-        <h2>Something</h2>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dartboard</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
+  <body>
+  {% include 'navbar.html' %}
+  <section class="section">
+    <div class="container">
+      <h1 class="title">
+        Dartboard
+      </h1>
+      <p class="subtitle">
+        Find the website of<strong>Bulma</strong>!
+      </p>
     </div>
-
-    <label class="checkbox" enabled>
-    <input type="checkbox" enabled>
-    Save my preferences
-    </label>
-
+  </section>
+  <section>
     <div class="card">
-    <div class="card-image">
-        <figure class="image is-4by3">
-        <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-        </figure>
+    <footer class="card-footer">
+        <a href="#" class="card-footer-item">Less than 4 days</a>
+        <a href="#" class="card-footer-item">1 weeks</a>
+        <a href="#" class="card-footer-item">2 weeks</a>
+    </footer>
     </div>
-    <div class="card-content">
-        <div class="media">
-        <div class="media-left">
-            <figure class="image is-48x48">
-            <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
-            </figure>
-        </div>
-        <div class="media-content">
-            <p class="title is-4">John Smith</p>
-            <p class="subtitle is-6">@johnsmith</p>
-        </div>
-        </div>
-
-        <div class="content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-        <a href="#">#css</a> <a href="#">#responsive</a>
-        <br>
-        </div>
-    </div>
-    </div>
-
-    <input class="input is-primary" type="text" placeholder="Primary input">
-<html>
+  </section>
+  </body>
+</html>
