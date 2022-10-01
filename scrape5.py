@@ -42,7 +42,7 @@ def keywordFixer(keyword):
 
 
 
-def summary(keyword):
+def wikiVoyage(keyword):
     
     keyword = keywordFixer(keyword)
     
@@ -66,32 +66,25 @@ def summary(keyword):
         text = search[1].get_text()
         
     
-    return text
-    
 
-
-def banner(keyword):
-    
-    keyword = keywordFixer(keyword)
-    
-    URL = "https://en.wikivoyage.org/wiki/" + keyword
-    r = requests.get(URL)
-    
-    soup = BeautifulSoup(r.text, 'lxml')
     search = soup.find_all('img')
         
     image_src = search[2]["src"]
-    
+        
 
     
-    return image_src
+    return text, image_src
     
 
 city = input("Enter a city: ")
 
 
+summary, image = wikiVoyage(city)
+
+
 print("\n")
-print(summary(city))
+print(summary)
 print("\n")
-print(banner(city))
+print(image)
+
 
