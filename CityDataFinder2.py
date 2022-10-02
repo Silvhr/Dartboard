@@ -2,12 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import cchardet
 
-URL = "https://www.biggestuscities.com/1"
+URL = "https://www.biggestuscities.com/2"
 r = requests.get(URL)
 soup = BeautifulSoup(r.content, 'lxml')
 
 search = soup.find_all('tr')
 
+file = open("City_Data.txt", 'a')
 
 
 for i in range(1,101):
@@ -25,12 +26,12 @@ for i in range(1,101):
     city_data = list(filter(None, city_data))
     
     
-    Rank = city_data[0]
+    Rank = str(city_data[0])
     Location = city_data[1]
     
     Location = Location.split(",")
-    City = Location[0]
-    State = Location[1]
+    City = str(Location[0])
+    State = str(Location[1])
     
     
     
@@ -38,7 +39,7 @@ for i in range(1,101):
     Pop = Pop.replace(" ", "")
     
     try:
-        Growth = city_data[4]
+        Growth = str(city_data[4])
         Growth = Growth.replace(" ", "")
     except:
         Growth = "N/A"
@@ -46,3 +47,9 @@ for i in range(1,101):
     
     
     print(Rank, City, State, Pop, Growth)
+    
+    row = Rank + "," + City + "," + State + "," + Pop + "," + Growth + "," + "\n"    
+    file.write(row)
+
+
+file.close()
