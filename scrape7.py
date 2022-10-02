@@ -95,10 +95,12 @@ def wikiVoyage(city):
     search = soup.find_all('img')
         
     image_src = search[2]["src"]
-        
+    
+
+    output = text + image_src
 
     
-    return text, image_src
+    return output
     
 
 # city = input("Enter a city: ")
@@ -114,12 +116,11 @@ state = random_city_split[2]
 
 
 
-summary, image = wikiVoyage(city)
+output = wikiVoyage(city)
 
 
-print("\n")
-print(summary)
-print("\n")
-print(image)
+
+print(output)
+
 
 
