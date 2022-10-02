@@ -2,6 +2,20 @@
     padding-top: 10px;
 }
 
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.containerL {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+.containerL::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
 .center {
 border: 5px solid #FFFF00;
 text-align: center;
@@ -18,4 +32,14 @@ justify-content: center;
 }
 .top {
 padding-top: 10px;
+}
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 50;
+}
+
+.section{
+    max-height: 500px;
 }

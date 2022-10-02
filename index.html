@@ -7,11 +7,19 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     <link rel="stylesheet" href="styles.css">
     <script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
+    <style>
+      body {
+        background-image: url("images/background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 120% 120%;
+      }
+    </style>
   </head>
   <body>
     <div class ="aligment">
-      <img src="images/greenpipe.png" style="position:relative" width = 100 height = 50 align="right" alt="natural" />
-      <img src="images/flippedpipe.png"style="position:relative" width = 100 height = 50 align="left" alt="natural" />
+      <img src="images/greenpipe.png" style="position:relative" width = 10% height = 5% align="right" alt="natural" />
+      <img src="images/flippedpipe.png"style="position:relative" width = 10% height = 5% align="left" alt="natural" />
     </div>
   <div id="myMenu">
     <div class="myWrapper alignment" id="dart">
@@ -25,7 +33,7 @@
 
 <hr>
   <section class="section">
-    <div class="container">
+    <div class="container ">
       <h1 class="title">
         Dartboard
       </h1>
@@ -49,20 +57,20 @@
   </section>
   <section class="center1">
     <div class="buttons field is-grouped">
-        <button class="button is-info is-outlined">1 city</button>
-        <button class="button is-success is-outlined">2 cities</button>
-        <button class="button is-danger is-outlined">3 cities</button>
+        <button class="button is-info ">1 city</button>
+        <button class="button is-success">2 cities</button>
+        <button class="button is-danger">3 cities</button>
     </div>
   </section>
   <section>
     <div class="center1 top">
-        <button onclick="displayHotels()" class="button is-large is-center is-danger">Generate! 🎯</button>
+        <button onclick="getCityInfo()" class="button is-large is-center is-danger">Generate! 🎯</button>
     </div>
   </section>
   <section>
-        <div class="card">
-          <header class="card-header">
-            <p class="card-header-title" id="Hotels">
+        <div class="card background">
+          <header class="card-header center1">
+            <p class="card-header-title is-centered" id="Name">
             </p>
               <button class="card-header-icon" aria-label="more options">
                 <span class="icon">
@@ -70,6 +78,18 @@
               </span>
             </button>
           </header>
+          <section class="center1">
+            <p class="card-header-title is-centered" id="Hotels"></p>
+          </section>
+          <section class="center1">
+            <p class="card-header-title is-centered" id="Hotels1"></p>
+          </section>
+          <section class="center1">
+            <p class="card-header-title is-centered" id="Activities"></p>
+          </section>
+          <section class="center1">
+            <p class="card-header-title is-centered" id="Activities1"></p>
+          </section>
         </div>
   </section>
   </body>
