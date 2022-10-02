@@ -10,3 +10,12 @@ text-align: center;
 display: flex;
 justify-content: center;
 }
+.alignment{
+        float:right;
+}
+#dart{
+        transform: translate(0%,-29%);
+}
+.top {
+padding-top: 10px;
+}

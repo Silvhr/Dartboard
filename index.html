@@ -6,19 +6,20 @@
     <title>Dartboard</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />`
-    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
-    <py-env>
-        - paths:
-          - /CityDataFinder2.py
-    </py-env>
+    <script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
   </head>
   <body>
+    <div class ="aligment">
+      <img src="images/greenpipe.png" style="position:relative" width = 100 height = 50 align="right" alt="natural" />
+      <img src="images/flippedpipe.png"style="position:relative" width = 100 height = 50 align="left" alt="natural" />
+    </div>
   <div id="myMenu">
-    <div class="myWrapper">
-      <nav>
-      <a href="/Dartboard"><img src="../images/dart.png" height=auto width=125% /></a>
-      </nav>
+    <div class="myWrapper alignment" id="dart">
+      <marquee  behavior="scroll" style="position:relative" width=1050 height=300 hspace = 100 scrollamount=200 direction="right">
+        <img src=
+          "images/dart.png"
+        alt="Nothing logo"> 
+      </marquee>
     </div>
   </div>
 
@@ -47,20 +48,31 @@
     </div>
   </section>
   <section class="center1">
-    <div class="buttons has-addons field is-grouped">
+    <div class="buttons field is-grouped">
         <button class="button is-info is-outlined">1 city</button>
         <button class="button is-success is-outlined">2 cities</button>
         <button class="button is-danger is-outlined">3 cities</button>
     </div>
   </section>
   <section>
-    <div class="center1">
-        <button class="button is-large is-center is-danger" pys-onclick="my_function">Generate! 🎯</button>
+    <div class="center1 top">
+        <button onclick="displayHotels()" class="button is-large is-center is-danger">Generate! 🎯</button>
+        <div class="card">
+        <header class="card-header">
+          <p class="card-header-title" id="Hotels">
+            Card header
+          </p>
+          <button class="card-header-icon" aria-label="more options">
+            <span class="icon">
+              <i class="fas fa-angle-down" aria-hidden="true"></i>
+            </span>
+          </button>
+        </header>
+    </div>
     </div>
   </section>
-  <body>
   </body>
-    <py-script src="../scripts/scrape3.py">
-    </py-script>
-  </body>
+
+  <script type="text/javascript" src="main.js"></script>
+
 </html>
