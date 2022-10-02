@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Fairmont Austin",
+      "Hyatt Regency Austin",
+      "JW Marriott Austin",
+      "Hilton Austin",
+      "Hyatt Place Austin Downtown",
+      "Four Seasons Hotel Austin",
+      "Omni Austin Hotel Downtown",
+      "The Driskill"
+   ],
+   "Address": [
+      "101 Red River St, Austin, Texas",
+      "208 Barton Springs Rd, Austin, Texas",
+      "110 E 2nd St, Austin, Texas",
+      "500 East 4th Street, Austin, Texas",
+      "211 E 3rd St, Austin, Texas",
+      "98 San Jacinto Blvd, Austin, Texas",
+      "700 San Jacinto at 8th Street, Austin, Texas",
+      "604 Brazos Street, Austin, Texas"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/5c/31/5b/aerial-pool-view.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/41/85/d1/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/91/3d/2e/corner-guest-room-skyline.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/26/41/cc/61/reception.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/96/50/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/78/b4/a3/four-seasons-hotel-austin.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/3a/5c/bd/exterior-of-hotel.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/84/fb/91/exterior.jpg"
+   ]
+}
