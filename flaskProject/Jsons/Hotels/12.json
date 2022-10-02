@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Hyatt Regency Jacksonville Riverfront",
+      "Marriott Jacksonville Downtown",
+      "Crowne Plaza Jacksonville Airport/I-95N, An IHG Hotel",
+      "Hampton Inn Jacksonville Beach/Oceanfront",
+      "Riverdale Inn",
+      "Four Points by Sheraton Jacksonville Beachfront",
+      "Microtel Inn & Suites by Wyndham Jacksonville Airport",
+      "Hampton Inn Jacksonville-Downtown-I-95"
+   ],
+   "Address": [
+      "225 E Coastline Dr, Jacksonville, Florida",
+      "245 Water Street, Jacksonville, Florida",
+      "14670 Duval Rd, Jacksonville, Florida",
+      "1515 First Street North, Jacksonville Beach, Florida",
+      "1521 Riverside Ave, Jacksonville, Florida",
+      "11 1st St N, Jacksonville Beach, Florida",
+      "13200 International Airport Blvd, Jacksonville, Florida",
+      "1331 Prudential Drive, Jacksonville, Florida"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/a8/5d/5b/not-set.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/87/7c/b1/marriott-jacksonville.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/26/36/52/96/modern-bathrooms-to-recharge.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/de/c0/d0/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/01/e4/8d/ac/front-of-riverdale-inn.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/5c/72/e8/hotel-and-jacksonville.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/67/f8/39/microtel-jacksonville.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/d7/7f/7a/exterior.jpg"
+   ]
+}

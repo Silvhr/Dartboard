@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Hampton Inn Oakland-Hayward",
+      "Hayward Inn",
+      "Hayward Hotel",
+      "Northwoods Motel",
+      "Holiday Inn Express & Suites Hayward",
+      "La Quinta Inn & Suites by Wyndham Oakland - Hayward",
+      "AmericInn by Wyndham Hayward",
+      "Ocean Reef Yacht Club & Resort"
+   ],
+   "Address": [
+      "24137 Mission Boulevard, Hayward, California",
+      "1759 Franklin Blvd, Eugene, Oregon",
+      "39 Dickson Road, Blackpool, Lancashire, England, United Kingdom",
+      "9854 N State Road 27, Hayward, Wisconsin",
+      "15586 County Road B, Hayward, Wisconsin",
+      "20777 Hesperian Blvd, Hayward, California",
+      "15601 US Highway 63, Hayward, Wisconsin",
+      "48-60 Bahama Reef Blvd., Freeport, Grand Bahama Island, Bahamas, Caribbean"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/c1/00/e3/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/0a/05/fe/hayward-inn.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-o/0f/51/69/93/hayward-hotel.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/93/3a/c2/northwoods-motel.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-w/23/3b/28/c3/lakeside-getaway-near.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/b0/1d/b9/guest-room.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/22/01/41/13/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/07/a5/11/ocean-reef-yacht-club.jpg"
+   ]
+}

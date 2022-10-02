@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Loews Philadelphia Hotel",
+      "Sofitel Philadelphia at Rittenhouse Square",
+      "Kimpton Hotel Monaco Philadelphia",
+      "Wyndham Philadelphia Historic District",
+      "Kimpton Hotel Palomar Philadelphia",
+      "Philadelphia Marriott Downtown",
+      "Hampton Inn Philadelphia Center City-Convention Center",
+      "Le Meridien Philadelphia"
+   ],
+   "Address": [
+      "1200 Market Street, Philadelphia, Pennsylvania",
+      "120 South 17th Street, Philadelphia, Pennsylvania",
+      "433 Chestnut Street, Philadelphia, Pennsylvania",
+      "400 Arch Street, Philadelphia, Pennsylvania",
+      "117 South 17th Street, Philadelphia, Pennsylvania",
+      "1201 Market Street, Philadelphia, Pennsylvania",
+      "1301 Race Street, Philadelphia, Pennsylvania",
+      "1421 Arch Street, Philadelphia, Pennsylvania"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/ac/ba/15/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/b0/22/c2/exterior-view.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/60/71/1e/guest-room.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/ba/98/37/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/41/c0/hotel-lobby.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/2b/8c/16/exterior-main-entrance.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/d6/73/a8/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/9d/af/ad/amuse.jpg"
+   ]
+}

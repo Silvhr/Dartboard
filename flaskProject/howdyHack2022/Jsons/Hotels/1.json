@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "New York - New York Hotel & Casino",
+      "Lotte New York Palace",
+      "HI New York City Hostel",
+      "The Hotel @ New York City",
+      "Park Hyatt New York",
+      "The Time New York",
+      "The Grand, York",
+      "Paragon Street, York, North Yorkshire, England, United Kingdom"
+   ],
+   "Address": [
+      "3790 Las Vegas Boulevard South, Las Vegas, Nevada",
+      "455 Madison Avenue, New York City, New York",
+      "891 Amsterdam Ave, New York City, New York",
+      "161 Lexington Ave, New York City, New York",
+      "153 West 57th Street, New York City, New York",
+      "224 W 49th St, New York City, New York",
+      "Station Rise, York, North Yorkshire, England, United Kingdom",
+      "It was around 15 mins. walk from York City Centre."
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/8d/a1/81/new-york-new-york-hotel.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/5b/a9/5b/lotte-new-york-palace.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/02/2b/b5/4b/hostelling-international.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/9a/89/eb/the-hotel-new-york-city.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/8f/74/e0/one-king-bed-studio-suite.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/11/75/57/deluxe-suite.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/74/29/f0/exterior-view.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/c6/65/f7/staycity-aparthotels.jpg"
+   ]
+}

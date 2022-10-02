@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Hyatt Regency Houston",
+      "Four Seasons Hotel Houston",
+      "Hilton Americas-Houston",
+      "Magnolia Hotel Houston, A Tribute Portfolio Hotel",
+      "Hotel ZaZa Houston Museum District",
+      "Club Quarters Hotel Downton, Houston",
+      "Omni Houston Hotel",
+      "The Royal Sonesta Houston Galleria"
+   ],
+   "Address": [
+      "1200 Louisiana St, Houston, Texas",
+      "1300 Lamar St, Houston, Texas",
+      "1600 Lamar St, Houston, Texas",
+      "1100 Texas Avenue, Houston, Texas",
+      "5701 Main St, Houston, Texas",
+      "720 Fannin St, Houston, Texas",
+      "4 Riverway, Houston, Texas",
+      "2222 West Loop South, Houston, Texas"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/24/e3/55/18/guest-room.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/00/4f/48/corner-king-room.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/b6/f3/5c/hilton-americas-houston.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/9e/15/ab/lobby.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/99/c2/75/hotel-zaza-houston.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/41/b2/9d/guest-room.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/92/70/fc/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/61/22/2e/exterior.jpg"
+   ]
+}

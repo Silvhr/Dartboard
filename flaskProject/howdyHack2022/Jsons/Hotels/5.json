@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Divi Aruba Phoenix Beach Resort",
+      "The Phoenix Hotel Yogyakarta - MGallery Collection",
+      "Phoenix Hotel",
+      "The Phoenix Resort",
+      "Phoenix V",
+      "Hyatt Regency Phoenix",
+      "Phoenix X",
+      "Marriott Phoenix Resort Tempe at The Buttes"
+   ],
+   "Address": [
+      "J.E. Irausquin Blvd 75, Palm - Eagle Beach, Aruba, Caribbean",
+      "Jl. Jenderal Sudirman no. 9, Yogyakarta, Yogyakarta Region, Java, Indonesia",
+      "601 Eddy St, San Francisco, California",
+      "Barrier Reef Dr, San Pedro, Ambergris Caye, Belize Cayes, Belize",
+      "24400 Perdido Beach Blvd, Orange Beach, Alabama",
+      "122 N 2nd St, Phoenix, Arizona",
+      "29576 Perdido Beach Blvd, Orange Beach, Alabama",
+      "2000 W Westcourt Way, Tempe, Arizona"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/oyster/500/11/1a/e5/09/main-pool--v16796866.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/82/f7/42/suite.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/94/e3/aa/phoenix-hotel-exteriors.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/4b/3b/dc/enjoy-the-view-from-our.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/ac/8d/f5/phoenix-v-indoor-pool.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/e5/63/a5/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/bb/dc/38/phoenix-x.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/3a/2b/09/lobby-lounge.jpg"
+   ]
+}

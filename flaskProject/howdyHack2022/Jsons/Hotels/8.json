@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Manchester Grand Hyatt San Diego",
+      "Hard Rock Hotel San Diego",
+      "The Westin San Diego Bayview",
+      "Omni San Diego Hotel",
+      "Kings Inn San Diego",
+      "Pendry San Diego",
+      "Andaz San Diego",
+      "San Diego Mission Bay Resort"
+   ],
+   "Address": [
+      "1 Market Place, San Diego, California",
+      "207 5th Ave, San Diego, California",
+      "400 West Broadway, San Diego, California",
+      "675 L St, San Diego, California",
+      "1333 Hotel Circle South, San Diego, California",
+      "550 J St, San Diego, California",
+      "600 F St, San Diego, California",
+      "1775 East Mission Bay Drive, San Diego, California"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/1d/10/dd/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/45/0d/59/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/3b/35/9f/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/20/16/6d/9f/omni-san-diego-hotel.jpg",
+      "https://media-cdn.tripadvisor.com/media/oyster/500/07/44/f6/d6/traditional-double-queen-room--v5.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/0c/78/5c/exterior-view.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/d8/4f/77/roof-top-pool.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/69/be/44/san-diego-mission-bay.jpg"
+   ]
+}
