@@ -8,12 +8,16 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />`
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <py-env>
+        - paths:
+          - /CityDataFinder2.py
+    </py-env>
   </head>
   <body>
   <div id="myMenu">
     <div class="myWrapper">
       <nav>
-      <a href="/"><img src="../images/dart.png" height=auto width=125% /></a>
+      <a href="/dartboard"><img src="../images/dart.png" height=auto width=125% /></a>
       </nav>
     </div>
   </div>
@@ -27,37 +31,39 @@
       <p class="subtitle">
         <u><strong>Please</strong></u> pick a duration of stay!
       </p>
+      <p class="subtitle">
+        <u><small>Please</small></u> pick a duration of stay!
+      </p>
     </div>
   </section>
   <section class="center1">
     <div class="card is-large">
     <progress class="progress is-danger" max="100">30%</progress>
     <footer class="card-footer" padding-top="50px">
-        <div class="buttons">
-            <button class="button is-info is-selected">Info</button>
-            <button class="button is-success is-selected">Success</button>
-            <button class="button is-warning is-selected">Warning</button>
-            <button class="button is-danger is-selected">Danger</button>
+        <div class="buttons has-addons field is-grouped">
+            <button class="button is-info is-outlined">Less than 4 days</button>
+            <button class="button is-success is-outlined">1 week</button>
+            <button class="button is-warning is-outlined">2 weeks</button>
+            <button class="button is-danger is-outlined">3 weeks</button>
         </div>
-        <a href="#" class="card-footer-item">Less than 4 days</a>
-        <a href="#" class="card-footer-item">1 weeks</a>
-        <a href="#" class="card-footer-item">2 weeks</a>
     </footer>
     </div>
   </section>
-  <section>
-    <div class="card is-large">
-    <footer class="card-footer" padding-top="50px">
-        <a href="#" class="card-footer-item">1 city</a>
-        <a href="#" class="card-footer-item">2 city</a>
-        <a href="#" class="card-footer-item">3 city</a>
-    </footer>
+  <section class="center1">
+    <div class="buttons has-addons field is-grouped">
+        <button class="button is-info is-outlined">1 city</button>
+        <button class="button is-success is-outlined">2 cities</button>
+        <button class="button is-danger is-outlined">3 cities</button>
     </div>
   </section>
   <section>
     <div class="center1">
-        <button class="button is-large is-center is-danger" >Generate! 🎯</button>
+        <button class="button is-large is-center is-danger" pys-onclick="my_function">Generate! 🎯</button>
     </div>
   </section>
+  <body>
+  </body>
+    <py-script src="CityDataFinder.py">
+    </py-script>
   </body>
 </html>
