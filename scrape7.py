@@ -28,26 +28,7 @@ import random
     
 #     return new_keyword
 
-file = open("City_Data.txt", "r")
 
-
-file_text = file.read()
-file_split = file_text.split("\n")
-
-r= random.randint(0,199)
-
-# print(file_split[r])
-
-
-random_city = file_split[r]
-random_city_split = random_city.split(",")
-
-# print(random_city_split)
-
-city = random_city_split[1]
-state = random_city_split[2]
-
-# print(city, state)
 
 
 def keywordFixer(keyword):
@@ -120,7 +101,17 @@ def wikiVoyage(city):
     return text, image_src
     
 
-city = input("Enter a city: ")
+# city = input("Enter a city: ")
+
+file = open("City_Data.txt", "r")
+file_text = file.read()
+file_split = file_text.split("\n")
+r= random.randint(0,199)
+random_city = file_split[r]
+random_city_split = random_city.split(",")
+city = random_city_split[1]
+state = random_city_split[2]
+
 
 
 summary, image = wikiVoyage(city)
