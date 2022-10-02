@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "San Diego Zoo Safari Park",
+      "San Diego Zoo",
+      "Old Town San Diego",
+      "Old Town San Diego State Historic Park",
+      "Old Town Trolley Tours San Diego",
+      "San Diego Convention Center",
+      "Another Side Of San Diego Tours",
+      "Sail San Diego"
+   ],
+   "Address": [
+      "15500 San Pasqual Valley Rd, Escondido, California",
+      "2929 Zoo Drive, San Diego, California",
+      "San Diego, California",
+      "4002 Wallace St, San Diego, California",
+      "4010 Twiggs St, San Diego, California",
+      "111 W Harbor Dr, San Diego, California",
+      "300 G St, San Diego, California",
+      "2646 Shelter Island Dr, San Diego, California"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/ef/b5/b2/san-diego-zoo-safari.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/40/79/20/san-diego-zoo.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/a6/09/80/old-town-san-diego.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/50/88/2b/old-town-san-diego-state.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/81/66/f8/old-town-trolley-toursr.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/28/94/6d/view-of-the-marriott.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/89/68/b2/our-logo.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/74/96/06/sail-san-diego.jpg"
+   ]
+}

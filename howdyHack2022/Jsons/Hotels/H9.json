@@ -1,0 +1,32 @@
+{
+   "Item": [
+      "Fairmont Dallas",
+      "Hyatt Regency Dallas",
+      "Hotel ZaZa Dallas",
+      "The Adolphus, Autograph Collection",
+      "Four Seasons Resort and Club Dallas at Las Colinas",
+      "Omni Dallas Hotel",
+      "Magnolia Hotel Dallas Downtown",
+      "NYLO Dallas Plano Hotel, Tapestry Collection by Hilton"
+   ],
+   "Address": [
+      "1717 N Akard St, Dallas, Texas",
+      "300 Reunion Blvd, Dallas, Texas",
+      "2332 Leonard Street, Dallas, Texas",
+      "1321 Commerce St, Dallas, Texas",
+      "4150 N Macarthur Blvd, Irving, Texas",
+      "555 S Lamar St, Dallas, Texas",
+      "1401 Commerce Street, Dallas, Texas",
+      "8201 Preston Rd, Plano, Texas"
+   ],
+   "Img": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/6b/79/4e/dalv.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/e9/2a/28/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/7e/6f/2a/poolside-at-hotel-zaza.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/24/35/c8/3b/the-adolphus-rooftop.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/3f/34/99/four-seasons-dallas.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/24/41/76/08/exterior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/a4/08/37/historic-exterior-a.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/e1/0d/e1/exterior.jpg"
+   ]
+}
